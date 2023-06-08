@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleynyasha">Cybersecurity Projects</a>, <a href="https://www.linkedin.com/in/ashley-ndhlovu-15833116b/">Cybersecurity ethusiast</a>
+<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleynyasha">Cybersecurity Projects</a>, <a href="https://www.linkedin.com/in/ashley-ndhlovu-15833116b/"></a>
 
 <h2>👨‍💻 Active Directory Project:</h2>
 
