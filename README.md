@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleynyasha">Cybersecurity</a>, <a href="https://www.linkedin.com/in/ashley-ndhlovu-15833116b/">Cybersecurity ethusiast</a>
+<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleynyasha">Cybersecurity Projects</a>, <a href="https://www.linkedin.com/in/ashley-ndhlovu-15833116b/">Cybersecurity ethusiast</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Active Directory Project:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
