@@ -3,7 +3,7 @@
 <h2>👨‍💻 Active Directory Project:</h2>
 
 <h2>🚩 Vulnerability management</h2>
-  <h2> 📑Certifications<h2> IS2 Certified In Cybersecurity<h2>https://www.credly.com/earner/earned/badge/07986240-82e3-4bc2-b5b1-6bb5597b2a83<h2>
+  <h2> 📑Certifications⬇<h2> IS2 Certified In Cybersecurity<h2>https://www.credly.com/earner/earned/badge/07986240-82e3-4bc2-b5b1-6bb5597b2a83<h2>NSE 1 Network Security Associate<h2>https://training.fortinet.com/mod/customcert/verify_certificate.php<h2>
 
 <h2> 🤳 Connect with me:</h2>
 
