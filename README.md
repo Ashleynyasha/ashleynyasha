@@ -6,8 +6,7 @@
   <h2> 📑Certifications⬇<h2> IS2 Certified In Cybersecurity<h2>https://www.credly.com/earner/earned/badge/07986240-82e3-4bc2-b5b1-6bb5597b2a83<h2>NSE 1 Network Security Associate<h2>https://training.fortinet.com/mod/customcert/verify_certificate.php<h2>NSE 2 Network Security Associate<h2>https://training.fortinet.com/mod/customcert/verify_certificate.php<h2>NSE 3 Network Security Associate <>In Progress<h2>Google Cybersecurity Professioanl Certificate <>In Progress<h2>Comptia network+ <>In Progress<h2>Comptia security+ <>In Progress
 
 <h2> 🤳 Connect with me:</h2>
-    
-[<img align="left" alt="Ashley Ndhlovu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+    [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
       https://www.linkedin.com/in/ashley-ndhlovu-15833116b/
 
 <!--
