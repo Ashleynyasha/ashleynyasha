@@ -1,8 +1,8 @@
-<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleynyasha">Cybersecurity Projects</a>, <a href="https://www.linkedin.com/in/ashley-ndhlovu-15833116b/"></a>
+<h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleynyasha">Cybersecurity Projects</a> <a href="https://www.linkedin.com/in/ashley-ndhlovu-15833116b/"></a>
 
 <h2>👨‍💻 Active Directory Project:</h2>
 
-<h2>Vulnerability management</h2>
+<h2>🚩 Vulnerability management</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
