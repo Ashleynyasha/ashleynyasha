@@ -1,7 +1,8 @@
 <h1>Hi, I'm Ashley! <br/><a href="https://github.com/ashleynyasha">Cybersecurity Projects</a> <a href="https://www.linkedin.com/in/ashley-ndhlovu-15833116b/"></a>
 
 <h2>👨‍💻 Active Directory Project:</h2>
-<h2>🚦 linux file and direcory permissions
+<h2>🚦 linux file and directory permissions
+  
 "https://docs.google.com/document/d/e/2PACX-1vQcJwufEuG_YaznVp0o96zGmyJ_6gh1qq3RpXgE6N0wiWXu4qC5QXD982wQgfr_NFyva1ooyRPqJEcd/pub?embedded=true"></iframe>
 
 <h2>🚩 Vulnerability management</h2>
